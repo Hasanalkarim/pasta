@@ -1,5 +1,60 @@
- /*this is css for codmpe*/
 
-h1 {color: blue;
 
-}
+/* https://www.w3schools.com/cssref/css3_pr_all.asp
+
+   This websites has all the css properties that i have used */
+
+
+body { background: linear-gradient(to bottom,rgb(194, 252, 250),rgb(151, 222, 218));
+
+               text-align: justify; font-size: 1em;
+                font-family: 'Lato', sans-serif;                                      }
+
+h1:hover {color: orange;}
+
+.title {font-family: 'Balsamiq Sans', cursive;
+      text-align: center; text-decoration: underline;
+       padding: 25px 0px;                              }
+
+
+.subhead {font-family: 'Open Sans', sans-serif; padding: 10px 0px; }
+
+
+.paragraph { text-transform: uppercase; }
+
+
+.list {font-family: 'Open Sans', sans-serif;}
+
+
+.pic {height:550px; width:31%; }
+
+
+.link { text-decoration: none; }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  .
