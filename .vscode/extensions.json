@@ -1,6 +1,7 @@
 {
     "recommendations": [
         "michaelcurrin.auto-commit-msg",
-        "njzy8856.auto-git"
+        "njzy8856.auto-git",
+        "bibhasdn.git-easy"
     ]
 }
