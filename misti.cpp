@@ -10,6 +10,15 @@ int main()
 {
     int x = 0;
     cout << "enter number 2theeee\n";
+
+
+    cout << " LEARNING....\n";
+
+
+
+
+
+
     cin >> x;
     cout << x + 1<<endl;
 
