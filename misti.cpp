@@ -9,7 +9,7 @@ using namespace std;
 int main()
 {
     int x = 0;
-    cout << "enter number 2\n";
+    cout << "enter number 2theeee\n";
     cin >> x;
     cout << x + 1<<endl;
 
