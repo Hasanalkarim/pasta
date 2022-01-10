@@ -12,7 +12,7 @@ int main()
     cout << "enter number 2theeee\n";
 
 
-    cout << " LEARNING....2.000000\n";
+    cout << " LEARNING....3.000000\n";
 
 
 
