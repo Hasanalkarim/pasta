@@ -1,0 +1,19 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+      {
+        "label": "AUTO--ADD",
+        "type": "shell",
+        "command": "git add .",
+        "windows": {
+          "command": "git add ."
+        },
+        "presentation": {
+          "reveal": "always",
+          "panel": "new",
+        },
+        
+      }
+    ]
+  }
+  

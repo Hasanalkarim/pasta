@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "first-c-",
+			"path": "..\\..\\..\\Documents\\first-c-"
+		}
+	],
+	"settings": {
+		"gitHubExplorer.authentication.username": "siam",
+		"gitHubExplorer.authentication.personalAccessToken": "siam"
+	}
+}
