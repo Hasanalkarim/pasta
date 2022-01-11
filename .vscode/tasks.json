@@ -18,9 +18,9 @@
       {
         "label": "AUTO--commit",
         "type": "shell",
-        "command": "git add .",
+        "command": "git commit -m\"change\".",
         "windows": {
-          "command": "git add .",
+          "command": "git commit -m\"change\".",
        
           
         },
