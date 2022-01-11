@@ -9,6 +9,9 @@ int main()
     while (x=x+1)
     {
        cout<<x<<endl;
+
+
+       //hhhhhhhhhhhhhhhh
     }
     
 		
