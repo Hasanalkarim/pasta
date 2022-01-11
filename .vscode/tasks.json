@@ -13,7 +13,31 @@
           "panel": "new",
         },
         
+      },
+
+      {
+        "label": "AUTO--commit",
+        "type": "shell",
+        "command": "git add .",
+        "windows": {
+          "command": "git add .",
+       
+          
+        },
+          "dependsOn":"AUTO--ADD",
+        "presentation": {
+          "reveal": "always",
+          "panel": "new",
+        },
+        
       }
+
+
+
+
+
+
+
     ]
 
 
