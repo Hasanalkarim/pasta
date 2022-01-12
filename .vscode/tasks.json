@@ -12,8 +12,11 @@
           "reveal": "always",
           "panel": "new"
         },
-      
-        "problemMatcher": []
+        "problemMatcher": [],
+        "group": {
+          "kind": "build",
+          "isDefault": true
+        }
       },
       {
         "label": "AUTO--commit",
@@ -27,10 +30,7 @@
           "reveal": "always",
           "panel": "new"
         },
-        "problemMatcher": [],
-        "runOptions": {
-          "runOn": "folderOpen"
-        }
+        "problemMatcher": []
       }
     ]
 
