@@ -1,44 +1,32 @@
 {
     "version": "2.0.0",
     "tasks": [
-                  {
-                    "label": "AUTO--ADD",
-                    "type": "shell",
-                    "command": "git add .",
-                    "windows": {
-                      "command": "git add ."
-                              },
-                    "presentation": {
-                    "reveal": "never",
-                    "panel": "new"
-                                    }
-                  },
-
-                  {
-                      "label": "AUTO--commit",
-                      "type": "shell",
-                      "command": "git commit -m\"change\".",
-                      "windows": {
-                        "command": "git commit -m\"change\"."
-                                },
-                      "dependsOn": "AUTO--ADD",
-                      "presentation": {
-                      "reveal": "never",
-                      "panel": "new"
-                                      },
-
-                      
-
-
-                    
-                  }
-
-
-
-
-
-
-
+      {
+        "label": "AUTO--ADD",
+        "type": "shell",
+        "command": "git add .",
+        "windows": {
+          "command": "git add ."
+        },
+        "presentation": {
+          "reveal": "never",
+          "panel": "new"
+        }
+      },
+      {
+        "label": "AUTO--commit",
+        "type": "shell",
+        "command": "git commit -m\"change\".",
+        "windows": {
+          "command": "git commit -m\"change\"."
+        },
+        "dependsOn": "AUTO--ADD",
+        "presentation": {
+          "reveal": "never",
+          "panel": "new"
+        },
+        "problemMatcher": []
+      }
     ]
 
 
