@@ -104,14 +104,14 @@
             "src/*.cpp"
         ]
     },
-    "triggerTaskOnSave.selectedTask": "",
+    "triggerTaskOnSave.selectedTask": "AUTO--push",
     "triggerTaskOnSave.showStatusBarToggle": true,
     "triggerTaskOnSave.on": true,
     "triggerTaskOnSave.showNotifications": true,
     "triggerTaskOnSave.failureColour": "#ff000040",
     "watch-run.targetList": [
         {
-            // "target": "**/*.cpp",
+             "target": "**/*.cpp",
             "task": "AUTO--commit"
         }
     ]
