@@ -1,5 +1,11 @@
-ball is a good thing
 
+#include <iostream>
 
+using namespace std;
 
-ball   
+int main()
+{
+    printf("Hello World");
+
+    return 0;
+}
