@@ -10,34 +10,25 @@
         },
         "presentation": {
           "reveal": "always",
-          "panel": "new",
-        },
-        
+          "panel": "new"
+        }
       },
-
       {
         "label": "AUTO--commit",
         "type": "shell",
         "command": "git commit -m\"change\".",
         "windows": {
-          "command": "git commit -m\"change\".",
-       
-          
+          "command": "git commit -m\"change\"."
         },
-          "dependsOn":"AUTO--ADD",
+        "dependsOn": "AUTO--ADD",
         "presentation": {
           "reveal": "always",
-          "panel": "new",
+          "panel": "new"
         },
-        
+        "problemMatcher": [],
+
+        "isBackground": true
       }
-
-
-
-
-
-
-
     ]
 
 
