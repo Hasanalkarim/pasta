@@ -9,9 +9,12 @@
           "command": "git add ."
         },
         "presentation": {
-          "reveal": "never",
+          "reveal": "always",
           "panel": "new"
-        }
+        },
+
+        
+        "runOptions": {"runOn": "folderOpen"}
       },
       {
         "label": "AUTO--commit",
@@ -22,10 +25,13 @@
         },
         "dependsOn": "AUTO--ADD",
         "presentation": {
-          "reveal": "never",
+          "reveal": "always",
           "panel": "new"
         },
-        "problemMatcher": []
+        "problemMatcher": [],
+
+
+        "runOptions": {"runOn": "folderOpen"}
       }
     ]
 
