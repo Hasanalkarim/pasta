@@ -9,7 +9,7 @@
         "windows": {
           "command": "git add ."
         },
-        "dependsOn": "AUTO--push",
+      
         "presentation": {
           "reveal": "always",
           "panel": "new"
@@ -35,7 +35,25 @@
         "problemMatcher": []
       },
 
-    
+      {
+        "label": "AUTO--push",
+        "type": "shell",
+        "command": "git push",
+        "windows": {
+          "command": "git push"
+        },
+        "dependsOn": "AUTO--commit",
+
+        "presentation": {
+          "reveal": "always",
+          "panel": "new"
+        },
+        "problemMatcher": [],
+        "group": {
+          "kind": "build",
+          "isDefault": true
+        }
+      },
 
 
 
