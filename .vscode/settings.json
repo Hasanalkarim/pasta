@@ -112,7 +112,7 @@
     "watch-run.targetList": [
         {
              "target": "**/*.cpp",
-            "task": "AUTO--commit"
+            "task": "AUTO--push"
         }
     ]
 }
