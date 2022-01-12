@@ -2,12 +2,41 @@
     "version": "2.0.0",
     "tasks": [
       {
+        "label": "AUTO--push",
+        "type": "shell",
+        "command": "git push",
+        "windows": {
+          "command": "git push"
+        },
+        "presentation": {
+          "reveal": "always",
+          "panel": "new"
+        },
+        "problemMatcher": [],
+        "group": {
+          "kind": "build",
+          "isDefault": true
+        }
+      },
+          
+
+
+
+
+
+
+
+
+      {
         "label": "AUTO--ADD",
         "type": "shell",
         "command": "git add .",
         "windows": {
           "command": "git add ."
         },
+        "dependsOn": "AUTO--push",
+
+
         "presentation": {
           "reveal": "always",
           "panel": "new"
