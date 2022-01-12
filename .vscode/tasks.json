@@ -12,9 +12,8 @@
           "reveal": "always",
           "panel": "new"
         },
-
-        
-        "runOptions": {"runOn": "folderOpen"}
+      
+        "problemMatcher": []
       },
       {
         "label": "AUTO--commit",
@@ -29,9 +28,9 @@
           "panel": "new"
         },
         "problemMatcher": [],
-
-
-        "runOptions": {"runOn": "folderOpen"}
+        "runOptions": {
+          "runOn": "folderOpen"
+        }
       }
     ]
 
