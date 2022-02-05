@@ -7,5 +7,5 @@ int main (){
 
 
 
-    cout <<he
+    c
 }
