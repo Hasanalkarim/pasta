@@ -5,7 +5,7 @@ using namespace std ;
 
 int main (){
 
- cout <<"wor"
+ cout <<"working"
 
     return 0
 }
