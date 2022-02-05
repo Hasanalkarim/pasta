@@ -29,7 +29,7 @@
         },
         "dependsOn": "AUTO--ADD",
         "presentation": {
-          "reveal": "always",
+          "reveal":  "silent", 
           "panel": "new"
         },
         "problemMatcher": []
