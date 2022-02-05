@@ -45,7 +45,7 @@
         "dependsOn": "AUTO--commit",
 
         "presentation": {
-          "reveal": "always",
+          "reveal":  "silent", 
           "panel": "new"
         },
         "problemMatcher": [],
