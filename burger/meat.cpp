@@ -7,5 +7,5 @@ int main (){
 
 
 
-    retur
+    return
 }
