@@ -5,7 +5,7 @@ using namespace std ;
 
 int main (){
 
- cout <<"are u"   ; 
+ cout <<""   ; 
 
     return 0;
 }
