@@ -1,7 +1,7 @@
 {
     "workbench.sideBar.location": "right",
     "code-runner.showExecutionMessage": false,
-    "window.zoomLevel": 2,
+    "window.zoomLevel": 1,
     "code-runner.runInTerminal": true,
     "code-runner.clearPreviousOutput": true,
     "code-runner.customCommand": "",
