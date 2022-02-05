@@ -11,7 +11,7 @@
         },
       
         "presentation": {
-          "reveal":  "", 
+          "reveal":  "s", 
           "panel": "new"
         },
         "problemMatcher": [],
