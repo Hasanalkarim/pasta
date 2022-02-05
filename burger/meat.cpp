@@ -5,7 +5,7 @@ using namespace std ;
 
 int main (){
 
- cout <<" "   ; 
+ cout <<" 101001"   ; 
 
     return 0;
 }
