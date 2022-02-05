@@ -1,13 +1,4 @@
-i like meat
+#include <iostream>
 
 
-uvuvuvuuvuu
-
-
-
-is it really working
-
-
-
-
-is sooooo
+using namespace 
