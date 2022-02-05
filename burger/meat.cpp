@@ -7,5 +7,5 @@ int main (){
 
 
 
-    cout <<hellow
+    cout <<he
 }
